@@ -6,5 +6,5 @@ public class Razza {
 	private String nome;
 	private String tipo;
 	private ArrayList<String> privilegi;
-	private 
+	private Caratteristiche modificatori;
 }
