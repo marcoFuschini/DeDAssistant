@@ -4,8 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import DeDA.PROJ.Dadi;
-import DeDA.PROJ.InvalidFormulaException;
+import DeDA.PROJ.Utils.Dadi;
+import DeDA.PROJ.Utils.InvalidFormulaException;
 
 public class DadiTEST {
 
